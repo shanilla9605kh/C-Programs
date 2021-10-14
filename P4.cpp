@@ -7,8 +7,7 @@ n3 = n1 + n2; n1 = n2;
 n2 = n3; printf("%d ",n3);
 printFibonacci(n-1);
 }
-
-//add main
+}
 int main()
 {
 int n;
